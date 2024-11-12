@@ -1,0 +1,12 @@
+F:\diobrando\Рабочий стол\DrugsBot\Domain\bin\Debug\net8.0\Domain.deps.json
+F:\diobrando\Рабочий стол\DrugsBot\Domain\bin\Debug\net8.0\Domain.dll
+F:\diobrando\Рабочий стол\DrugsBot\Domain\bin\Debug\net8.0\Domain.pdb
+F:\diobrando\Рабочий стол\DrugsBot\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+F:\diobrando\Рабочий стол\DrugsBot\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\diobrando\Рабочий стол\DrugsBot\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+F:\diobrando\Рабочий стол\DrugsBot\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+F:\diobrando\Рабочий стол\DrugsBot\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+F:\diobrando\Рабочий стол\DrugsBot\Domain\obj\Debug\net8.0\Domain.dll
+F:\diobrando\Рабочий стол\DrugsBot\Domain\obj\Debug\net8.0\refint\Domain.dll
+F:\diobrando\Рабочий стол\DrugsBot\Domain\obj\Debug\net8.0\Domain.pdb
+F:\diobrando\Рабочий стол\DrugsBot\Domain\obj\Debug\net8.0\ref\Domain.dll
